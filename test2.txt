@@ -1,1 +1,3 @@
 klfsljfdloweurjslflsejljlk
+
+hi this is second line of master test2.txt file
